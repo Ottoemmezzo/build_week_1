@@ -106,7 +106,43 @@ input#menuButton:checked ~ nav {
 
 /* sebastian */
 
-
+#slide {
+	width:60%;
+	margin: 0 auto;
+	padding:20px;
+	box-sizing: border-box;
+ 
+ }
+ #slide_titolo_1{
+	 font-size:1.5rem;
+	 display:inline-block;
+ }
+ #slide_titolo_1 span{
+	 color:orange;
+ }
+ #slide_sotto_titolo{
+	 display:flex;
+	 justify-content:space-between;
+ }
+ #slide_arrow{
+	 margin-right: 15%;
+ }
+ #slide i{
+	 font-size:1.5rem;
+	 color:gray;
+ }
+ #slide_position{
+	 width:30%;
+	 margin: 2% 38%;
+ }
+ #slide_position i{
+	 font-size: 1rem;
+	 
+ }
+ #slide img{
+	 width:20%;
+	 margin:4px;
+ }
 
 
 
