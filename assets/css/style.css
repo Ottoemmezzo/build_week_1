@@ -1,7 +1,82 @@
 /* cristian */
+#intromenu {
+	text-align: center;
+	padding: 10% 1% 25%;
+}
 
+#intromenu h3 {
+	font-size: 16px;
+	padding-bottom: 4%;
+}
 
+#intromenu p {
+	color: #9D9D9D;
+	font-size: 16px;
+	line-height: 26px;
+}
 
+#intromenu hr {
+	width: 140px;
+	height: 1px;
+	background: #C8C1B3;
+	margin: 5% auto 5%;
+}
+
+#menu span {
+	font-size: 25px;
+	color: #ff530a;
+	font-weight: 600;
+}
+
+#menulist {
+	text-align: left;
+	padding-left: 2%;
+	padding-right: 10%;
+	font-size: 20px;
+	font-weight: 600;
+}
+
+#menulist span {
+	font-size: 20px;
+	font-weight: 600;
+}
+
+#menulist h3 {
+	padding-bottom: 6%;
+}
+
+#menulist h4 {
+	padding: 21px 0px;
+}
+
+#menulist P {
+	padding: 2px 0px;
+	color: #a3a3a3;
+	font-size: 14px;
+	font-weight: 400;
+	line-height: 20px;
+	margin: 0px;
+}
+
+#menulist button {
+	color: #FF5F33;
+	text-decoration: none;
+	font-size: 18px;
+	background-color: #FFFFFF;
+	padding: 30px 69px;
+	border: 1px solid #FF5F33;
+}
+
+#menulist button:hover {
+	background-color: #FF5F33;
+	color: #FFFFFF;
+	border-color: #B3B3B3;
+}
+
+#menubutton {
+	text-align: right;
+	padding: 10% 0% 10%;
+}
 /* eloise */
 header {
     background-color: white;
