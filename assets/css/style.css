@@ -148,6 +148,39 @@ input#menuButton:checked ~ nav {
 
 /* salvatore */
 
+#about {
+    background-color: #F6F6F6;
+    padding: 100px 0px;
+}
+    .aboutcont {
+        text-align: center;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin-right: auto;
+        margin-left: auto;
+    }
+    
+    .aboutcont h1 {
+    padding: 40px 0px;
+    font-size: 22px;
+    color: #2E2E2E;
+    font-weight: 300;
+    
+    }
+    
+    .aboutcont h1 span {
+        color: #ff530a;
+        font-size: 28px;
+        font-weight: bold;
+        
+    }
+    .aboutcont p {
+    color: #959595;
+    font-size: 16px;
+    line-height: 26px;
+    padding: 40px 0px;
+    }    
+    
 
 
 
