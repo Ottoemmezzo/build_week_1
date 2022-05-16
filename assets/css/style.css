@@ -154,7 +154,73 @@ input#menuButton:checked ~ nav {
 
 
 /* leo */
+#lineablog {
+    height: 1px;
+    width: 140px;
+    background-color: #c8c1b5;
+}
+#lineablog2 {
+    height: 1px;
+    width: 90px;
+    background-color: #c8c1b5;
+    margin-left: auto;
+    margin-right: auto;
+}
 
+
+.blogcontaier {
+    width: 100%;
+    padding: 40px 0px 30px;
+}
+
+.blogimg {
+    width: 100%;
+    margin-bottom: -3px;
+    position: relative;
+    transition: 1s;
+}
+
+.blogcontent {
+    z-index: 1;
+    padding: 20px 35px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: white;
+}
+#blog h3 {
+    font-size: 20px;
+    padding: 0px 40px 20px;
+}
+#blog p {
+    font-size: 14px;
+    color: #959595;
+    padding: 25px 0px 0px;
+}
+#blog h1 {
+    font-size: 22px;
+}
+.blogimg:hover{
+    position: relative;
+    z-index: -1;
+    transform: scale(1.2) rotate(10deg);
+
+}
+#info {
+    background-color: #ff530a;
+    color: #ffffff;
+    margin-top: 30px;
+    padding: 28px 85px;
+    font-size: 16px;
+    border-width: 0px;
+    transition: 0.5s;
+}
+#info:hover {
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0, 0);
+    border-color: #ff530a;
+    border-width: 1px;
+}
 
 
 @media screen and (max-width: 480px) {
